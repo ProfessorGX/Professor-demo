@@ -1,3 +1,3 @@
 # Professor-demo
 <br>
-Author - Guddu Kumar
+Author - Guddu Kumar (Professor)
